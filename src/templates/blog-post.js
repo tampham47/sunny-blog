@@ -18,11 +18,13 @@ export const BlogPostTemplate = ({
     <section>
       {helmet || ''}
       <div className="container">
-        <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-          {title}
-        </h1>
-        <p>{description}</p>
-        <PostContent content={content} />
+        <div className="main">
+          <h1>
+            {title}
+          </h1>
+          <p>{description}</p>
+          <PostContent content={content} />
+        </div>
       </div>
     </section>
   )
