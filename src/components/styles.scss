@@ -1,0 +1,100 @@
+@-ms-viewport {
+  width: device-width;
+}
+
+html {
+  box-sizing: border-box;
+  -ms-overflow-style: scrollbar;
+}
+
+body {
+  font-family: arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+/* TYPO */
+/* apply desktop first for this case only */
+@media only screen and (max-width: 25em) {
+  h1 {
+    font-size: 1.5rem;
+  }
+  h2 {
+    font-size: 1.3rem;
+  }
+  h3 {
+    font-size: 1.2rem;
+  }
+  h4,
+  h5,
+  h6 {
+    font-size: 1rem;
+  }
+}
+
+/* GRID */
+.container {
+  width: calc(100% - 2rem);
+  max-width: 56rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+section {
+  margin: 2rem 0;
+}
+@media only screen and (min-width: 48em) {
+  section {
+    margin: 4rem 0;
+  }
+}
+
+/* BUTTONS */
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  user-select: none;
+  border: 1px solid transparent;
+  padding: 0.375rem 1.5rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 1.5rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  text-decoration: none;
+  border: 1px solid black;
+  color: black;
+  cursor: pointer;
+  outline: none;
+}
+
+.btn.btn-sm {
+  padding: 0.25rem 1rem;
+}
+.btn.btn-lg {
+  padding: 0.5rem 2rem;
+}
+
+.btn.btn-p1 {
+  border: 1px solid orange;
+  background-color: orange;
+  color: black;
+  font-weight: bold;
+}

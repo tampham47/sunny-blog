@@ -1,0 +1,33 @@
+.main {
+  font-size: 1rem;
+  box-shadow: 0.5em 1px whitesmoke;
+  height: 64px;
+  display: flex;
+  align-items: center;
+}
+
+.body {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.left {}
+.right {}
+
+.link {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+  text-decoration: none;
+  display: block;
+  color: black;
+  line-height: 0;
+  padding: 12px 16px;
+  margin-left: -16px;
+}
+
+.link img {
+  width: 40px;
+  display: inline-block;
+}
