@@ -28,8 +28,6 @@ Sau khi đã làm quen với danh sách các từ vựng rồi, thì bạn sẽ 
 
 Goingsunny được thiết kế để hiển thị tốt trên điện thoại, do đó. Bạn có thể học từ vựng, hay viết truyện chêm bất cứ lúc nào, bất cứ khi nào bạn muốn, miễn là lúc đó bạn có thể online. Vì hiện tại mình chỉ mới phát triển Goingsunny nên chưa có nhiều kinh phí, cũng như bạn đồng hành nên mình tập trung phát triển ứng dụng nền web trước. Rất mong nhận được sự kiên nhẫn của các bạn trong quá trình sử dụng Goingsunny. 
 
-![Truyện chêm trên goingsunny](/img/screen-shot-2019-01-23-at-10.22.34-pm.png "Truyện chêm trên goingsunny")
-
 ### Mục tiêu của Goingsunny trong tương lai
 
 Đã hơn 2 năm qua, Goingsunny luôn ấp ủ một mục tiêu là: "ưa tiếng anh đến với nhiều người hơn, với chi phí rẻ hơn". Để mở ra những cánh cửa lớn hơn cho bản thân mỗi người, để là bàn đạp để sánh vai cùng với các cường quốc năm châu. Vì mình luôn quan niệm rằng, để quốc gia cường thịnh, thì bản thân mỗi cá nhận phải hoàn thiện. Và tiếng anh luôn là chiếc chìa khoá để mở ra nhiều kho tàng.
