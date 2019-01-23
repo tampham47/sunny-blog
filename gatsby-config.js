@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Mạng xã hội viết tiếng anh cho người việt! - Blog - Goingsunny',
+    title: 'Mạng xã hội viết tiếng anh cho người việt! - Goingsunny',
     description: 'Học từ vựng, viết truyện chêm trên điện thoại. Fan made application của sách hack não 1500 từ tiếng anh',
   },
   plugins: [
