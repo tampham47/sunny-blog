@@ -30,7 +30,7 @@ Goingsunny được thiết kế để hiển thị tốt trên điện thoại,
 
 ### Mục tiêu của Goingsunny trong tương lai
 
-Đã hơn 2 năm qua, Goingsunny luôn ấp ủ một mục tiêu là: "ưa tiếng anh đến với nhiều người hơn, với chi phí rẻ hơn". Để mở ra những cánh cửa lớn hơn cho bản thân mỗi người, để là bàn đạp để sánh vai cùng với các cường quốc năm châu. Vì mình luôn quan niệm rằng, để quốc gia cường thịnh, thì bản thân mỗi cá nhận phải hoàn thiện. Và tiếng anh luôn là chiếc chìa khoá để mở ra nhiều kho tàng.
+Đã hơn 2 năm qua, Goingsunny luôn ấp ủ một mục tiêu là: "Đưa tiếng anh đến với nhiều người hơn, với chi phí rẻ hơn". Để mở ra những cánh cửa lớn hơn cho bản thân mỗi người, để là bàn đạp để sánh vai cùng với các cường quốc năm châu. Vì mình luôn quan niệm rằng, để quốc gia cường thịnh, thì bản thân mỗi cá nhận phải hoàn thiện. Và tiếng anh luôn là chiếc chìa khoá để mở ra nhiều kho tàng.
 
 Mình biết rằng rất nhiều bạn đang mong muốn có tính năng sửa bài. Mình vẫn luôn nghĩ về nó mỗi ngày. Mình sẽ cố gắng để phát triển và đưa ra tính năng này sớm, để giúp mỗi người hoàn thiện kỹ năng viết của mình hơn. Đồng thời mình cũng đang có kế hoạch đưa sách Hack não IELTS lên Goingsunny, để hỗ trợ các bạn từ bắt đầu học tiếng anh, tới khi đã thành thục và nâng cao. Rất mong nhận được sự ủng hộ của các bạn. 
 

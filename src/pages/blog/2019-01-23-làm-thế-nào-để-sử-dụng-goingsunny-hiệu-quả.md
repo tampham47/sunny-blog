@@ -33,6 +33,6 @@ Bạn vào goingsunny bằng trình duyệt mặc định trên điện thoại,
 
 ![goingsunny home screen](/img/goingsunny-howto.png "goingsunny home screen")
 
-### Góp ý & liên
+### Góp ý & liên hệ
 
 Nếu bạn có bất kỳ thắc mắc nào, cứ thoải mái nhắn mình thông qua facebook messenger nhé. Mình luôn ở đây để lắng nghe, nhưng đôi lúc mình có việc bận nên có thể sẽ mất chút thời gian để trả lời các bạn nha.
