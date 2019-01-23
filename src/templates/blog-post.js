@@ -2,8 +2,10 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import { graphql } from 'gatsby'
+
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import s from './blog-post.module.css';
 
 export const BlogPostTemplate = ({
   content,
@@ -23,7 +25,7 @@ export const BlogPostTemplate = ({
             {title}
           </h1>
           <p>{description}</p>
-          <PostContent content={content} />
+          <PostContent content={content} className={s.content} />
         </div>
       </div>
     </section>
