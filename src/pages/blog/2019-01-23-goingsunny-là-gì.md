@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Goingsunny là gì?
+title: Goingsunny là gì? 123
 date: 2019-01-23T14:29:36.854Z
 description: >-
   Có rất nhiều bạn hỏi Goingsunny là gì, ứng dụng hoạt động thế nào, và mục đích
