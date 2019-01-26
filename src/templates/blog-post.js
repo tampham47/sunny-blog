@@ -42,6 +42,7 @@ BlogPostTemplate.propTypes = {
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data
+  console.log(post);
 
   return (
     <Layout>
@@ -50,11 +51,13 @@ const BlogPost = ({ data }) => {
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
         helmet={
-          <Helmet
-            titleTemplate="%s | Blog"
-          >
+          <Helmet titleTemplate="%s | Blog Goingsunny">
             <title>{`${post.frontmatter.title}`}</title>
             <meta name="description" content={`${post.frontmatter.description}`} />
+            <meta property="og:type" content="article" />
+            <meta property="og:title" content={post.frontmatter.title} />
+            <meta property="og:url" content={post.fields.slug} />
+            <meta property="og:image" content="/img/hacknao1500.png" />
           </Helmet>
         }
         tags={post.frontmatter.tags}
@@ -77,6 +80,9 @@ export const pageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       id
       html
+      fields {
+        slug
+      }
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
