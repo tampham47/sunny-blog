@@ -10,8 +10,10 @@ const PostItem = class extends React.PureComponent {
         <Link to={post.fields.slug} className={s.title}>
           {post.frontmatter.title}
         </Link>
-        <span> &bull; </span>
-        <small>{post.frontmatter.date}</small>
+        <div className={s.date}>
+          <span> &bull; </span>
+          <small>{post.frontmatter.date}</small>
+        </div>
         <div className={s.body}>
           {post.frontmatter.description}
         </div>
