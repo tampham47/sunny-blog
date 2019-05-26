@@ -25,3 +25,7 @@ Khi học mọi người đừng lười giống mình nhé hihi, mình đã kh�
 **Tiếng anh quan trọng lắm đấy!!!**
 
 Chúc các bạn học tốt, sớm hoàn thành quyển sách hack não và không quên viết chuyện chêm trên Goingsunny nha ❤ Mình sẽ quay lại chia sẻ với các bạn về quá trình học khi mình học hết quyển sách hack não nha!
+
+
+
+From [Trần Huyền Trang](https://www.facebook.com/trangchit2002) with ❤️
